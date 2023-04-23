@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.themusketeers</groupId>
     <artifactId>world-region-services-kt</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>2023.1.0</version>
     <name>world-region-services-kt</name>
     <description>Worl Region Services</description>
     <properties>
